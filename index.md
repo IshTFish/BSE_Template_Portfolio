@@ -1,5 +1,5 @@
 ﻿# Twitter Bot Project
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+In this project, I worked on creating a bot on Raspberry Pi that could send out tweets.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
