@@ -3,7 +3,7 @@ In this project, I worked on creating a bot on Raspberry Pi that could send out 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Chandra, Ishaan | Los Altos High School | Not clear yet | Incoming Sophomore
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
