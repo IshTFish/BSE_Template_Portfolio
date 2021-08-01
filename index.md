@@ -20,4 +20,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 # First Milestone
 My first milestone was setting up the Raspberry Pi and all the necessary components onto my chip. In doing this, I hooked up the monitor, keyboard, and mouse to my chip and connected the chip itself to power so that the computer could function. After that, I booted up the computer so that I could confirm that every component worked as should be. While I would face several challenges later on in this project, completing this milestone was relatively simple for the most part as connecting each component to the raspberry pi chip was fairly straightforward
 
-[![First Milestone](https://user-images.githubusercontent.com/88210053/127756677-0b3570e7-999f-49e4-8263-8bb99dcdf79a.png)]{:target="_blank" rel="noopener"}
+![First Milestone](https://user-images.githubusercontent.com/88210053/127756677-0b3570e7-999f-49e4-8263-8bb99dcdf79a.png){:target="_blank" rel="noopener"}
